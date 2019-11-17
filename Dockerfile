@@ -1,8 +1,8 @@
 FROM asciidoctor/docker-asciidoctor
 
 LABEL "version"="0.0.1"
-LABEL "repository"="http://github.com/mgred/asciidoctor-action"
-LABEL "homepage"="http://github.com/mgred/asciidoctor-action"
+LABEL "repository"="http://github.com/jshingler/asciidoctor-action"
+LABEL "homepage"="http://github.com/jshingler/asciidoctor-action"
 
 LABEL "com.github.actions.name"="Asciidoctor Github Action"
 LABEL "com.github.actions.description"="An Action to use the Asciidoctor CLI"
